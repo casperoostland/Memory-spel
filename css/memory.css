@@ -1,0 +1,15 @@
+.board {
+  width: 80%;
+  margin: 0 auto;
+
+  text-align: center;
+}
+
+.pictureRow {
+  display: inline-block;
+  margin-right: -4px
+}
+
+.card {
+    width: 10%;
+}
